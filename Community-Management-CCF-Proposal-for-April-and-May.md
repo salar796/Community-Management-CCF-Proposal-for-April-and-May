@@ -1,4 +1,4 @@
-# Community-Management-CCF-Proposal-for-April-and-May# Community Management CCF Proposal for April and May
+# Community-Management-CCF-Proposal-for-April-and-May
 
 Send 14.44 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the month of April & May. The Qubic amount was calculated using a valuation of 800 USDT per billion.
 
@@ -135,7 +135,7 @@ The Community Management Team moderates the Qubic Discord server and Telegram ch
 ## 🔍 How We Used Past Funding during the last 1 months ## 
 Due to market conditions and price fluctuations, the Community Team applied its dynamic compensation model to remain within the allocated budget. Despite these adjustments, operations on Discord and Telegram continued uninterrupted, with a full focus on core moderation, governance support, and community safety.
 
-Additionally, it achieved a savings of $5250 from the most recently requested budget due to the price increase in March.
+Additionally, it achieved a savings of $5550 from the most recently requested budget due to the price increase in March.
 
 Funding during this period enabled the Community Management Team to maintain a safe, fair, and engaging environment across the Qubic ecosystem. This included continuous moderation, community engagement, policy enforcement, support for other workgroups, multilingual assistance and documentation across Discord and Telegram.
 
@@ -182,7 +182,7 @@ The Community Quorum has been consolidating its importance. During the absence o
 </details>
 <details>
 <summary>Who leads the Community Team?</summary>
-<br/>We want to highlight that the community team has a horizontal structure, and relevant decisions are made collectively by vote.<br/><br/>
+<br/>Until a new CL selected, we want to highlight that the community team has a horizontal structure and relevant decisions are made collectively by vote.<br/><br/>
 </details>
 <details>
 <summary>How large is the Community Team?</summary>
